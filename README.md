@@ -15,7 +15,7 @@ I am a dedicated **BS Computer Science student at Fatima Jinnah Women University
 
 ---
 
-## 🎓 EDUCATION
+## EDUCATION
 
 | Degree | Institution | Details |
 |--------|-------------|---------|
@@ -25,7 +25,7 @@ I am a dedicated **BS Computer Science student at Fatima Jinnah Women University
 
 ---
 
-## 💻 ACADEMIC PROJECTS
+## ACADEMIC PROJECTS
 
 | Project | Technologies |
 |---------|---------------|
@@ -39,7 +39,7 @@ I am a dedicated **BS Computer Science student at Fatima Jinnah Women University
 
 ---
 
-## 💼 WORK EXPERIENCE
+## WORK EXPERIENCE
 
 - **Home Tutor** – Personalized academic support for students  
 - **Small Business Owner (Baking)** – Managed an Instagram-based online bakery  
@@ -47,14 +47,14 @@ I am a dedicated **BS Computer Science student at Fatima Jinnah Women University
 
 ---
 
-## 🤝 VOLUNTEER EXPERIENCE
+## VOLUNTEER EXPERIENCE
 
 - **Awareness Programs & Community Development Initiatives**  
 - **Cleanliness Drive** – Ayub National Park  
 
 ---
 
-## 🧠 SKILLS
+## SKILLS
 
 | Category | Skills |
 |----------|--------|
@@ -65,7 +65,7 @@ I am a dedicated **BS Computer Science student at Fatima Jinnah Women University
 
 ---
 
-## 📜 CERTIFICATES & AWARDS
+## CERTIFICATES & AWARDS
 
 - ✅ **Google Project Management Professional Certificate**  
 - 🏆 **6 Academic Awards** – Outstanding performance in studies  
@@ -73,6 +73,6 @@ I am a dedicated **BS Computer Science student at Fatima Jinnah Women University
 
 ---
 
-## 🎯 CAREER GOAL
+##  CAREER GOAL
 
-> *To build a strong career in **Project Management**, applying leadership, organizational, and problem-solving skills to successfully deliver projects. Aim to contribute to impactful projects while empowering others through teamwork, planning, and innovation.*
+To build a strong career in **Project Management**, applying leadership, organizational, and problem-solving skills to successfully deliver projects. Aim to contribute to impactful projects while empowering others through teamwork, planning, and innovation.
